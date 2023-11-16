@@ -1305,6 +1305,7 @@ a {
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: 100px;
   display: inline-block;
+  margin-left: 100px;
   margin-bottom: 22px;
 }
 .block-text .sub-heading span {
@@ -1315,7 +1316,9 @@ a {
   background-clip: text;
 }
 .block-text .heading {
+  margin-left: 85px;
   margin-bottom: 25px;
+  padding: 0;
   text-transform: none;
 }
 .block-text .action-btn span {
@@ -1902,6 +1905,7 @@ a {
 }
 @media only screen and (max-width: 1024px) {
   .footer .footer__bottom {
+    margin-left: 120px;
     flex-wrap: wrap;
     justify-content: center;
   }
@@ -2897,6 +2901,7 @@ img.mfp-img {
 }
 @media only screen and (max-width: 1200px) {
   .speciality .block-text p {
+    margin-left: 90px;
     padding: 0;
   }
 }
