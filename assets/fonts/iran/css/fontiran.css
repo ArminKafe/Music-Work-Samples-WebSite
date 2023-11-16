@@ -1,0 +1,78 @@
+﻿/**
+*
+*	Name:			IRAN Sans-Serif Font
+*	Version:		5.0
+*	Author:			Moslem Ebrahimi (moslemebrahimi.com)
+*	Created on:		Dec 25, 2012
+*	Updated on:		Sep 01, 2017
+*	Website:		             http://fontiran.com
+*	Copyright:		Commercial/Proprietary Software
+--------------------------------------------------------------------------------------
+فونت های ایران سن سریف یک نرم افزار مالکیتی محسوب می شود. جهت آگاهی از قوانین استفاده از این فونت ها لطفا به وب سایت (فونت ایران دات کام) مراجعه نمایید
+--------------------------------------------------------------------------------------
+IRAN Sans-serif fonts are considered a proprietary software. To gain information about the laws regarding the use of these fonts, please visit www.fontiran.com 
+--------------------------------------------------------------------------------------
+This set of fonts are used in this project under the license: (.....)
+--------------------------------------------------------------------------------------
+*	
+**/
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: 900;
+	src: url('../fonts/_eot/KalamehWeb(FaNum)-Black.eot');
+	src: url('../fonts/_eot/KalamehWeb(FaNum)-Black.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('../fonts/_Woff2/KalamehWeb(FaNum)-Black.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/_woff/KalamehWeb(FaNum)-Black.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('../fonts/_TTF/Kalameh(FaNum)-Black.ttf') format('truetype');
+}
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: bold;
+	src: url('../fonts/_eot/KalamehWeb(FaNum)-Bold.eot');
+	src: url('../fonts/_eot/KalamehWeb(FaNum)-Bold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('../fonts/_Woff2/KalamehWeb(FaNum)-Bold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/_woff/KalamehWeb(FaNum)-Bold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('../fonts/_ttf/Kalameh(FaNum)-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: 500;
+	src: url('../fonts/_eot/KalamehWeb(FaNum)-Regular.eot');
+	src: url('../fonts/_eot/KalamehWeb(FaNum)-Regular.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('../fonts/_Woff2/KalamehWeb(FaNum)-Regular.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/_Woff/KalamehWeb(FaNum)-Regular.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('../fonts/_TTF/Kalameh(FaNum)-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: 300;
+	src: url('../fonts/_eot/KalamehWeb(FaNum)-Regular.eot');
+	src: url('../fonts/_eot/KalamehWeb(FaNum)-Regular.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+	url('../fonts/_Woff2/KalamehWeb(FaNum)-Regular.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+	url('../fonts/_Woff/KalamehWeb(FaNum)-Regular.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	url('../fonts/_TTF/Kalameh(FaNum)-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: 200;
+	src: url('../fonts/_eot/KalamehWeb(FaNum)-Regular.eot');
+	src: url('../fonts/_eot/KalamehWeb(FaNum)-Regular.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+	url('../fonts/_Woff2/KalamehWeb(FaNum)-Regular.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+	url('../fonts/_Woff/KalamehWeb(FaNum)-Regular.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	url('../fonts/_TTF/Kalameh(FaNum)-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: normal;
+	src: url('../fonts/_eot/KalamehWeb(FaNum)-Regular.eot');
+	src: url('../fonts/_eot/KalamehWeb(FaNum)-Regular.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+	url('../fonts/_Woff2/KalamehWeb(FaNum)-Regular.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+	url('../fonts/_Woff/KalamehWeb(FaNum)-Regular.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	url('../fonts/_TTF/Kalameh(FaNum)-Regular.ttf') format('truetype');
+}
